@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/NewProggie/" />
+  <default revision="master" remote="origin" />
+
+  <project name="Dev-Utils" path="Dev-Utils" />
+  <project name="Toco" path="Toco" />
+  <project name="Photometric-Stereo" path="Photometric-Stereo" />
+</manifest>
